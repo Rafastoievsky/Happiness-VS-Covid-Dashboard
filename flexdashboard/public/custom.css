@@ -1,0 +1,20 @@
+.navbar .container-fluid {
+    background-color: #2D3748 !important;
+}
+
+.navbar .container-fluid .nav-content .navbar-brand{
+    color: #F5DE1F !important;
+    
+}
+
+.page {
+    background-color: #EDF2F7;
+    padding: 8px !important;
+    color: rgb(9, 9, 9);
+}
+
+
+
+/* .card {
+    background-color: #bbbb70;
+} */
